@@ -1,0 +1,2 @@
+# pawnsamp
+SAMP
